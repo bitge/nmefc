@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="viewFinderView_width">380dp</dimen>
+    <dimen name="viewFinderView_height">260dp</dimen>
+    <dimen name="viewFinderView_textsize">16sp</dimen>
+</resources>
